@@ -2,7 +2,7 @@
 #
 # Copyright (c) 2016-2017 ForgeRock AS.
 #
-FROM tomcat:8.5.21
+FROM tomcat:8.5.92
 
 
 # Example
